@@ -1,9 +1,10 @@
 //
 //  AppDelegate.h
-//  Proyecto1VMRL
+//  PruebaGit
 //
-//  Created by Victor on 19/10/14.
-//  Copyright (c) 2014 AMIRD&T. All rights reserved.
+//  Created by Victor on 19/08/16.
+//  Copyright © 2016 AMIRD&T. All rights reserved.
+//
 
 #import <UIKit/UIKit.h>
 
